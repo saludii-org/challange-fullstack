@@ -7,7 +7,7 @@ Neste desafio, você irá construir um app web de uma aplicação de lista de ta
 - RedwoodJS
 - Material UI (@mui/material)
 - dndkit
-- tiptap ou simular
+- tiptap (ou uma biblioteca similar)
 - socket.IO ou SSE
 
 
